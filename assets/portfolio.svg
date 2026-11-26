@@ -1,0 +1,9 @@
+<svg xmlns="http://www.w3.org/2000/svg" viewBox="0 0 128 128" width="128" height="128" role="img" aria-label="Portfolio">
+<defs><linearGradient id="g" x1="0" y1="0" x2="1" y2="1"><stop offset="0" stop-color="#39D0D8"/><stop offset="1" stop-color="#1F5FBF"/></linearGradient></defs>
+<rect x="3" y="3" width="122" height="122" rx="9" fill="url(#g)"/>
+<g fill="none" stroke="#fff" stroke-width="6" stroke-linecap="round">
+<circle cx="64" cy="64" r="36"/>
+<ellipse cx="64" cy="64" rx="15" ry="36"/>
+<path d="M28 64h72M33 46h62M33 82h62"/>
+</g>
+</svg>
