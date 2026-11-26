@@ -2,7 +2,13 @@
 
 <img src="assets/terminal.svg" width="100%" alt="Terminal : Mamadou Bailo BARRY, développeur full-stack passionné de cybersécurité" />
 
-**[Portfolio](https://portfolio-1-gamma-azure.vercel.app)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/mamadou-bailo-barry-aa852333a/)** &nbsp;·&nbsp; Marseille, France &nbsp;·&nbsp; Stage dès le 29 mars 2027
+<p align="center">
+  <a href="https://portfolio-1-gamma-azure.vercel.app"><img width="38px" alt="Portfolio" title="Portfolio" src="assets/portfolio.svg"/></a>
+  &#8287;&#8287;&#8287;&#8287;&#8287;
+  <a href="https://www.linkedin.com/in/mamadou-bailo-barry-aa852333a/"><img width="38px" alt="LinkedIn" title="LinkedIn" src="assets/linkedin.svg"/></a>
+</p>
+
+Marseille, France &nbsp;·&nbsp; Stage dès le 29 mars 2027
 
 </div>
 
