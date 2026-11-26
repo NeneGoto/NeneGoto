@@ -1,73 +1,92 @@
 <div align="center">
 
-# Mamadou Bailo BARRY
+<img src="assets/terminal.svg" width="100%" alt="Terminal : Mamadou Bailo BARRY, développeur full-stack passionné de cybersécurité" />
 
-<a href="https://portfolio-1-gamma-azure.vercel.app">
-  <img src="https://readme-typing-svg.demolab.com?font=Fira+Code&weight=500&size=20&pause=1200&color=2F81F7&center=true&vCenter=true&width=560&lines=D%C3%A9veloppeur+full-stack;Passionn%C3%A9+de+cybers%C3%A9curit%C3%A9;IA+locale+%26+code+assist%C3%A9+par+l'IA;BUT+Informatique+%E2%80%94+IUT+Aix-Marseille" alt="Développeur full-stack · Cybersécurité · IA" />
-</a>
-
-<p>
-  <a href="https://portfolio-1-gamma-azure.vercel.app"><img src="https://img.shields.io/badge/Portfolio-000000?style=for-the-badge&logo=vercel&logoColor=white" alt="Portfolio" /></a>
-  <a href="https://www.linkedin.com/in/mamadou-bailo-barry-aa852333a/"><img src="https://img.shields.io/badge/LinkedIn-0A66C2?style=for-the-badge&logo=linkedin&logoColor=white" alt="LinkedIn" /></a>
-  <img src="https://img.shields.io/badge/Marseille-France-1f6feb?style=for-the-badge&logo=googlemaps&logoColor=white" alt="Marseille, France" />
-</p>
-
-<img src="https://img.shields.io/badge/Recherche_de_stage-d%C3%A8s_le_29_mars_2027-2ea44f?style=flat-square" alt="Recherche de stage dès le 29 mars 2027" />
+**[Portfolio](https://portfolio-1-gamma-azure.vercel.app)** &nbsp;·&nbsp; **[LinkedIn](https://www.linkedin.com/in/mamadou-bailo-barry-aa852333a/)** &nbsp;·&nbsp; Marseille, France &nbsp;·&nbsp; Stage dès le 29 mars 2027
 
 </div>
 
 ---
 
-### 👋 À propos
+## À propos
 
 Étudiant en **BUT Informatique** (2e année) à l'IUT d'Aix-Marseille, site d'Arles, parcours *Réalisation d'applications*.
 Je développe des applications de bout en bout : interface, API, base de données, tests.
 La **cybersécurité** est ce qui me motive le plus. Je code au quotidien avec l'IA et je fais des essais d'**IA locale** (des modèles qui tournent sur ma propre machine).
 
-```yaml
-role:        Développeur full-stack · cybersécurité · IA
-formation:   BUT Informatique (BUT1 validé, BUT2 en cours) — IUT Aix-Marseille
-recherche:   Stage de 2e année à partir du 29/03/2027
-             (convention 3 mois, prolongation possible en CDD)
-langues:     Français · Pular · Anglais B2 (technique) · Allemand (débutant)
-```
+Je cherche un **stage de 2e année à partir du 29/03/2027** (convention de 3 mois, prolongation possible en CDD) en développement full-stack, cybersécurité, données ou IA.
 
 ---
 
-### 🛠️ Stack
+## Stack
 
-**Langages**
-<br/>
-<img src="https://skillicons.dev/icons?i=py,ts,js,java,cpp,r,bash,html,css&perline=9" alt="Python, TypeScript, JavaScript, Java, C++, R, Bash, HTML, CSS" />
+<img src="assets/stack.svg" width="100%" alt="Stack technique" />
 
-**Web, API & données**
-<br/>
-<img src="https://skillicons.dev/icons?i=fastapi,vue,react,nextjs,threejs,qt,postgres&perline=9" alt="FastAPI, Vue.js, React, Next.js, Three.js, Qt, PostgreSQL" />
-
-**Systèmes & outils**
-<br/>
-<img src="https://skillicons.dev/icons?i=linux,debian,windows,git,github,idea&perline=9" alt="Linux, Debian, Windows, Git, GitHub, IntelliJ IDEA" />
-
-Et aussi : pytest · Scrum · UML · VirtualBox · Excel (avancé) · Sage 100
+Et aussi : Scrum · UML · VirtualBox · Excel (avancé) · Sage 100
 
 ---
 
-### 🚀 Projets
+## Projets
 
-| Projet | Ce que c'est | Techno |
-|---|---|---|
-| 🔐 **[log-anonymizer](https://github.com/NeneGoto/log-anonymizer)** | Outil en ligne de commande qui masque les données sensibles dans des logs texte ou JSON (IP, e-mails, tokens, mots de passe) avec des règles regex configurables. Couvert par **43 tests automatisés**. | Python · pytest |
-| 🏆 **Application web 3D** | Hackathon **Dev'Art 2026**, **Prix du Jury**. | Next.js · Three.js · TypeScript |
-| 🖥️ **ArchiSim** | Simulateur 64 bits (RAM / CPU) exposé par une API temps réel, avec une interface web. J'étais **Product Owner** (besoins, priorités, démos, Scrum). | FastAPI · Vue.js |
-| 🗄️ **Base de données relationnelle** | Modélisation MCD / MLD, SQL avancé, triggers. | PostgreSQL · WinDesign |
-| 🚗 **Gestionnaire d'immatriculations** | Application de bureau Master/Detail, en binôme, avec UML et sauvegarde XML / JSON. | C++17 · Qt 6 |
-| 🌐 **Poste de dev & réseau** | Multiboot Debian 12 / Windows 11 sous VirtualBox, serveur mail Postfix. | Linux · réseau |
+<table>
+<tr>
+<td width="50%" valign="top">
 
-👉 Tous les détails sont sur mon **[portfolio](https://portfolio-1-gamma-azure.vercel.app)**.
+### [log-anonymizer](https://github.com/NeneGoto/log-anonymizer)
+**Masquer les données sensibles dans les logs**
+Python · pytest
+
+Outil en ligne de commande qui masque les IP, e-mails, tokens et mots de passe dans des logs texte ou JSON, avec des règles regex configurables. Couvert par **43 tests automatisés**.
+
+</td>
+<td width="50%" valign="top">
+
+### Application web 3D
+**Hackathon Dev'Art 2026 · Prix du Jury**
+Next.js · Three.js · TypeScript
+
+Application web 3D interactive réalisée en équipe pendant le hackathon.
+
+</td>
+</tr>
+<tr>
+<td width="50%" valign="top">
+
+### ArchiSim
+**Simulateur 64 bits (RAM / CPU)**
+FastAPI · Vue.js
+
+Moteur d'émulation exposé par une API temps réel, avec une interface web. J'étais **Product Owner** : besoins, priorités, démos, Scrum.
+
+</td>
+<td width="50%" valign="top">
+
+### Base de données relationnelle
+**Modélisation et SQL avancé**
+PostgreSQL · WinDesign
+
+Modèles MCD / MLD, requêtes SQL avancées et triggers PostgreSQL.
+
+</td>
+</tr>
+</table>
+
+Aussi : un gestionnaire d'immatriculations en **C++17 / Qt 6** (binôme, UML, XML / JSON), et un poste de dev et réseau multiboot **Debian 12 / Windows 11** avec un serveur mail Postfix.
+Tous les détails sont sur mon **[portfolio](https://portfolio-1-gamma-azure.vercel.app)**.
 
 ---
 
-### 🔐 Côté cyber
+## Activité GitHub
+
+<div align="center">
+
+![Graphique d'activité GitHub](https://github-readme-activity-graph.vercel.app/graph?username=NeneGoto&theme=react-dark&hide_border=true&area=true)
+
+</div>
+
+---
+
+## Côté cyber
 
 - Je protège les données dès le code : c'est l'idée de **log-anonymizer** (ne rien laisser fuiter dans les logs).
 - Je m'entraîne au hacking éthique **uniquement sur mon lab local**, sous Linux.
@@ -75,10 +94,8 @@ Et aussi : pytest · Scrum · UML · VirtualBox · Excel (avancé) · Sage 100
 
 ---
 
-<div align="center">
+## Mode stratégie
 
-**Ouvert aux propositions de stage : développement full-stack, cybersécurité, données, IA.**
-<br/>
-<a href="https://www.linkedin.com/in/mamadou-bailo-barry-aa852333a/">Écrivez-moi sur LinkedIn</a> · <a href="https://portfolio-1-gamma-azure.vercel.app">Voir mon portfolio</a>
+<img src="assets/chess.svg" width="100%" alt="Simulation animée d'une partie d'échecs : la partie de l'Opéra (Morphy, 1858)" />
 
-</div>
+<sub>Terminal et échiquier dessinés à la main en SVG animé · logos officiels des technologies.</sub>
